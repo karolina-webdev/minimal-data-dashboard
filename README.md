@@ -1,4 +1,4 @@
-# Minimal Data Dashboard
+# Minimal Data Dashboard (MVP)
 
 A clean and minimalist data dashboard built with HTML, CSS and JavaScript.
 
